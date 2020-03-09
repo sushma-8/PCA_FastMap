@@ -1,3 +1,22 @@
+"""
+PCA Implementation
+
+Dimensionality reduction from K-D space to (K-1)-D space
+
+
+Contributors:
+
+Niroop Ramdas Sagar  
+USC ID: 4897621292    
+ramdassa@usc.edu  
+
+Sushma Mahadevaswamy
+USC ID: 3939734806
+mahadeva@usc.edu
+
+"""
+
+
 import numpy as np
 from matplotlib import pyplot as plt
 from matplotlib import style
